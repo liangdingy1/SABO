@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.json
+outputs/
+data/
+.idea/
+.vscode/
